@@ -41,9 +41,11 @@ So for our model search three set of Models are selected for this problems. For 
 #### Model - 1 Logistic Regression:
 Params = {{'C': 4.281332398719396, 'penalty': 'l1', 'solver': 'liblinear'}
 Best F1 Score = 0.448
+
 #### Model - 2 Random Forest Classifier
 Params = {'class_weight': None, 'criterion': 'entropy', 'max_features': 10, 'n_estimators': 200}
 Best F1 Score = 0.567
+
 #### Model - 3 Linear SVM [BEST LINEAR MODEL ON CVs]
 Params = {'C': 2, 'class_weight': 'balanced', 'penalty': 'l2'}
 Best F1 Score = 0.585
