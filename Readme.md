@@ -1,4 +1,3 @@
--- Originally a  Colab Notebook
 
 A short-case study of application of Supervised, Un-supervised, and semi-supervised models on structured data for a classical classification and clustering problem.
 
